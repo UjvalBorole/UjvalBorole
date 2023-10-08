@@ -11,7 +11,7 @@
 <img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*k-Snk2qOam5GZ-_S.gif" >
 - 🌱 I’m currently learning **Django**
 
-- 💬 Ask me about **Python,Django**
+- 💬 Ask me about **Python,Django,React,Flutter**
 
 - 📫 How to reach me **Boroleujval4@gmail.com**
 
