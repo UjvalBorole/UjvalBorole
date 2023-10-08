@@ -2,13 +2,6 @@
 <h3 align="center">My focus is on designing and developing websites and Applications that look great and work well.</h3>
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ujvalborole&label=Profile%20views&color=0e75b6&style=flat" alt="ujvalborole" /> </p>
-
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ujvalborole" alt="ujvalborole" /></a> </p>
-
-<p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
-<img align="right" alt="coding" width="400" src="https://miro.medium.com/max/720/0*k-Snk2qOam5GZ-_S.gif" >
 - 🌱 I’m currently learning **Express JS**
 
 - 💬 Ask me about **Python,Django,React,Flutter**
