@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ujval Borole</h1>
-<h3 align="center">My focus is on designing and developing websites and Applications that look great and work well.</h3>
+<h3 align="center">A software Engineer Passonate about Coding and Programming
+</h3>
 
 
 - 🌱 I’m currently learning **Express JS**
