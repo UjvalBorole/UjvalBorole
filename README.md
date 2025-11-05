@@ -3,11 +3,11 @@
 
 - 🔭 I'm currently working on **Job Scheduling & Execution System (Apache Airflow-like)**
 
-- 🌱 I'm currently learning **Express JS**
+- 🌱 I'm currently learning **System Design**
 
 - 👯 I'm looking to collaborate on **distributed systems and scalable backend projects**
 
-- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Redis, System Design**
+- 💬 Ask me about **Java, Spring Boot, Microservices, Kafka, Redis,RabbitMQ, System Design**
 
 - 📫 How to reach me **Boroleujval4@gmail.com**
 
