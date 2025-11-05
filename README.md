@@ -64,8 +64,4 @@
   <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ujvalborole&theme=radical" alt="ujvalborole" />
 </p>
 
-## 📈 LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/boroleujval4?theme=dark&font=ABeeZee&ext=contest" alt="LeetCode Stats" />
-</p>
