@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ujval Borole</h1>
-<h3 align="center">Software Engineer | Backend & Distributed Systems Specialist</h3>
+<h3 align="center">Software Engineer | Backend & Distributed Systems </h3>
 
 - 🔭 I'm currently working on **Job Scheduling & Execution System (Apache Airflow-like)**
 
